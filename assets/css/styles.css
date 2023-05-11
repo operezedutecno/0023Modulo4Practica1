@@ -1,0 +1,7 @@
+.enlace {
+    cursor: pointer;
+}
+
+#enlaces .active {
+    font-weight: bold;
+}
